@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+somecontent
+=======
+some content in repository, created in web.
+>>>>>>> 64ca4fec2fefb93619c25d994367bb3ad22990f6
